@@ -17,6 +17,8 @@ The classifier leverages transfer learning with VGG16 architecture and custom CN
 
 With the rapid growth of autonomous vehicles and automotive AI applications, accurate vehicle classification has become increasingly important. This project explores the effectiveness of different CNN architectures for distinguishing between similar vehicle types, particularly challenging cases like sedans vs. hatchbacks.
 
+## [Rendered Jupyter Notebook](https://angelo-orciuoli.github.io/cnn-car-classifier/)
+
 ## Technical Approach
 
 ### Dataset
